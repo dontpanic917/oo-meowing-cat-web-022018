@@ -1,1 +1,4 @@
-## code your solution here. 
+class Cat
+  ## code your solution here.
+  attr_accessor :meow
+end
